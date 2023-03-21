@@ -6,6 +6,6 @@ public class PruebaGit {
 		System.out.println("Hola mundo");
 		System.out.println("Soy Samuel");
 		System.out.println("Hola");
-		System.out.println("Buenos días clase!");
+		System.out.println("Buenos días clase!!");
 	}
 }
